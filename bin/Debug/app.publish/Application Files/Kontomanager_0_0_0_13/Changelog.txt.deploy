@@ -1,0 +1,38 @@
+﻿# Changelog
+All notable changes to this project will be documented in this file.
+
+
+#######################################
+#######################################
+
+
+## [Dev-Branch]
+
+## [0.0.0.13] - 19-09-2017
+
+### Added
+- URL to Bug Report
+- URL to Wiki
+
+### Changed
+- Improved Performance
+- Removed unnecesary spacings
+
+#######################################
+#######################################
+
+
+## [Dev-Branch]
+
+## [0.0.0.3] - 10-09-2017
+
+### Added
+- "Gutschrift" Funktion
+- "Abbuchung" Funktion
+- Speichern Funktion
+- Import Button
+
+### Changed
+- Improved Performance
+- Shorted the Code
+- Removed unnecesary spacings

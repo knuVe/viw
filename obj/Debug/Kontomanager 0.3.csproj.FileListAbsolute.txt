@@ -1,0 +1,37 @@
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.exe.config
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.exe
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.pdb
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csprojResolveAssemblyReference.cache
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager_0._3.Form1.resources
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager_0._3.Properties.Resources.resources
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csproj.GenerateResource.Cache
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.exe
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.pdb
+C:\Users\flori\Desktop\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csprojResolveAssemblyReference.cache
+C:\Users\flori\Desktop\Kontomanager 0.3\obj\Debug\Kontomanager_0._3.Form1.resources
+C:\Users\flori\Desktop\Kontomanager 0.3\obj\Debug\Kontomanager_0._3.Properties.Resources.resources
+C:\Users\flori\Desktop\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csproj.GenerateResource.Cache
+C:\Users\flori\Desktop\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.exe
+C:\Users\flori\Desktop\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.pdb
+C:\Users\flori\Desktop\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.exe.config
+C:\Users\flori\Desktop\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.exe
+C:\Users\flori\Desktop\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.pdb
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.exe.manifest
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager 0.3.application
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.exe.manifest
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.application
+D:\Programmieren\VS Git\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager_0._3.Form1.resources
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csproj.GenerateResource.Cache
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager.exe.config
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager.exe.manifest
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager.application
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager.exe
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\bin\Debug\Kontomanager.pdb
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager.Properties.Resources.resources
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager.exe.manifest
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager.application
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager.exe
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager.pdb
+D:\Programmieren\Visual Studio Projekte\Kontomanager 0.3\Kontomanager 0.3\obj\Debug\Kontomanager 0.3.csprojResolveAssemblyReference.cache

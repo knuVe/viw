@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Kontomanager.exe" version="0.0.0.13" publicKeyToken="07640765064a6d40" language="de-DE" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Kontomanager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Kontomanager.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC-Manifestoptionen
+          Wenn Sie die Ebene der Windows-Benutzerkontensteuerung ändern möchten, ersetzen Sie den 
+          Knoten "requestedExecutionLevel" durch eine der folgenden Angaben.
+
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel level="highestAvailable" uiAccess="false" />
+
+         Wenn Sie Datei- und Registrierungsvirtualisierung für Abwärtskompatibilität 
+         verwenden möchten, löschen Sie den Knoten "requestedExecutionLevel".
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Kontomanager.exe" size="49112">
+      <assemblyIdentity name="Kontomanager" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>qQapYnKlDBm4bdMF2OLueDOfOwbrdVZkpulH/cIuTuA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Aktivitaeten.txt" size="0">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Changelog.txt" size="665">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TroCfiRBoO+fvxKOW4S2ZFXbYvv9WoXxvtZDxUXPmkQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Counter.txt" size="4">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>3z9hmASpL9tAVxktxD3XSOp3itxSvEmM6AUkwBS4ERk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="15086">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Wo0R+1jsbqDddTxIGLpJpQLF+CRb1ij+oX64+u4c4Ys=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Kontomanager.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Kontostand.txt" size="0">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Licence.txt" size="35182">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Y/MtNL09hUM6a1K6SFoLaeO3iyv49BA7zrNY5LERCco=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=H1ED477GHDES84\Timm" issuerKeyHash="f3b884d971737efdfc7d3ac61c3d5f6687206c90" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Sor3wqFe+6+OB+kMvfDf2+zSOAPi+wGrrZc7pUbGaMU=</DigestValue></Reference></SignedInfo><SignatureValue>gxEU9s9YJm9JFCWUSNU4KCXeEDlneuXSf8ztj/CK/C0M277Mnx2Ek/SIgTsS4qyaGjEmaK1vKXccELOGxkVvo5Bz8QTbF2qRR0JNsdbVc53kfQPZpRCX7GiM0cpnBljBfxak84vzdQ5RRauLSChX6DV/m8T9+gSEjcpAKau7EWo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>4/iNmzot/Beb+wCIFuZQ+1fHfgvWZzv6UGm0/nj985umgmOBvV7NAM6W8d8yytY7YiYv4tZqXh6q7QYPfv2n7IufBC9sLPR7LOgzEo72+Wh9PRYi1JyGF8Dr+ihFtC5LVZLAxr1v7jmljucYddgDnSQRIl06SI8fPt0JJTCg0yU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c568c646a53b97adab01fbe20338d2ecdbdff0bd0ce9078eaffb5ea1c2f78a4a" Description="" Url=""><as:assemblyIdentity name="Kontomanager.exe" version="0.0.0.13" publicKeyToken="07640765064a6d40" language="de-DE" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=H1ED477GHDES84\Timm</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/GtpiftUEsrdutlBPJRQdECziqNjJh/LeK9IFN8WAPE=</DigestValue></Reference></SignedInfo><SignatureValue>M1tCbQNHKSHQrSJq4AT9Of5VvyvWPV80eRFvlms772q7lEG59EGn9q0BPFCLJ80LorhiTdx0NJocp+icPEt33pg8cdvK6NbQDJMUm5bX0ZLhFOvytWC5ATWOfLMDM3OSR4hMe+CoCKZi5xW3JdvQSx1GHc+qCRsKhnwOYop9a8w=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>4/iNmzot/Beb+wCIFuZQ+1fHfgvWZzv6UGm0/nj985umgmOBvV7NAM6W8d8yytY7YiYv4tZqXh6q7QYPfv2n7IufBC9sLPR7LOgzEo72+Wh9PRYi1JyGF8Dr+ihFtC5LVZLAxr1v7jmljucYddgDnSQRIl06SI8fPt0JJTCg0yU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQGDRYFaba/L9ONdpnws43PjANBgkqhkiG9w0BAQsFADAxMS8wLQYDVQQDHiYASAAxAEUARAA0ADcANwBHAEgARABFAFMAOAA0AFwAVABpAG0AbTAeFw0xNzA5MDcxMjQ1MDNaFw0xODA5MDcxODQ1MDNaMDExLzAtBgNVBAMeJgBIADEARQBEADQANwA3AEcASABEAEUAUwA4ADQAXABUAGkAbQBtMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDj+I2bOi38F5v7AIgW5lD7V8d+C9ZnO/pQabT+eP3zm6aCY4G9Xs0Azpbx3zLK1jtiJi/i1mpeHqrtBg9+/afsi58EL2ws9Hss6DMSjvb5aH09FiLUnIYXwOv6KEW0LktVksDGvW/uOaWO5xh12AOdJBEiXTpIjx8+3QklMKDTJQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFi1+x8Zg2rJhAy3r7yiTEeHhppKW/1PU9MjAKTQFTmcobF+edhe1arz4z8JHrjkZWknXKGc97bEP+bUznN2FFRkfdhoT2deuyuaoUcc1OhpYkX5lIvTDObRaJmOql8xB2TklTb6wdIshL6zlz897edsGSpcylfSsGyiXVLqLkKP</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
